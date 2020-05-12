@@ -36,7 +36,7 @@ This project used United Nation's World Happiness Rankings country level data, t
 - Submit your best model to the leader board for the World Happiness AI Model Share competition.
 
 ### [Brain Tumor Diagnostic Prediction with MRI Image Data](https://github.com/Alisaahy/Projects-in-Advanced-Machine-Learning/blob/master/Assignment2/Image_Mini_hackathon_braintumor_MRIdata.ipynb)
-This project used MRI image data and predict whether a image contains tumors. It includes the following steps:
+This project used MRI image data and predicted whether a image contains tumors. It includes the following steps:
 
 - Visualize brain tumor images that demonstrate when images have tumors and when they do not have tumors.
 - Run three prediction models to try to predict brain tumor MRI images well. Use transfer learning in one of these models
@@ -44,8 +44,9 @@ This project used MRI image data and predict whether a image contains tumors. It
 - Submit best model to the leader board for the Brain Tumor Diagnostic AI Model Share competition.
 
 ### [BBC text classification project](https://github.com/Alisaahy/Projects-in-Advanced-Machine-Learning/blob/master/Assignment2/Image_Mini_hackathon_braintumor_MRIdata.ipynb)
-This project used MRI image data and predict whether a image contains tumors. It includes the following steps:
-- Visualize brain tumor images that demonstrate when images have tumors and when they do not have tumors.
-- Run three prediction models to try to predict brain tumor MRI images well. Use transfer learning in one of these models
-- Discuss which models performed better and point out relevant hyper-parameter values for successful models.
-- Submit best model to the leader board for the Brain Tumor Diagnostic AI Model Share competition.
+This project used data includes news articles from the BBC news and built a model to classification this text dataset into multiple categories. It includes the following steps:
+
+- Visualize the categories of the target variable and describe the dataset generally.
+- Preprocess my data such that each document in the data is represented as a sequence of equal length.
+- Build five models to perform text classification on the dataset. Models including: simple RNN model, Stacked RNN model, LSTM model, Bidirectional LSTM, etc.
+- Discuss which model performed best and explain about how I'll try to further improve the predictive power of my model.
