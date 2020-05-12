@@ -22,7 +22,7 @@ The repository contains projects I made for the course Projects in Advanced Mach
 - etc.
 
 ## Project Description
-Basically, there're 3 projects in the repository: 
+There're 3 projects in the repository: 
 
 ### Predicting Happiness and Write a report on U.N. World Happiness Data.
 This project used U.N. World Happiness Data, to predict happiness for countries around the world. It includes the following steps:
@@ -34,6 +34,6 @@ This project used U.N. World Happiness Data, to predict happiness for countries 
 - Discuss which models performed better and point out relevant hyper-parameter values for successful models.
 - Submit your best model to the leader board for the World Happiness AI Model Share competition.
 
-
+### Brain Tumor Diagnostic Prediction with MRI Image Data
 
  
