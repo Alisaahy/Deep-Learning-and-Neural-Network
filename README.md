@@ -34,6 +34,6 @@ This project used U.N. World Happiness Data, to predict happiness for countries 
 - Discuss which models performed better and point out relevant hyper-parameter values for successful models.
 - Submit your best model to the leader board for the World Happiness AI Model Share competition.
 
-### Brain Tumor Diagnostic Prediction with MRI Image Data
+### [Brain Tumor Diagnostic Prediction with MRI Image Data](https://github.com/Alisaahy/Projects-in-Advanced-Machine-Learning/blob/master/Assignment2/Image_Mini_hackathon_braintumor_MRIdata.ipynb)
 
  
