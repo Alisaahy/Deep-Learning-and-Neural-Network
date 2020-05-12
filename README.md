@@ -22,9 +22,18 @@ The repository contains projects I made for the course Projects in Advanced Mach
 - etc.
 
 ## Project Description
-Basically, the project includes 4 steps: 
-- Load and Import Data
-- Make Plots for Exploratory Data Analysis
-- Data Wrangling and Feature Engineering
-- Model Building
+Basically, there're 3 projects in the repository: 
+
+### Predicting Happiness and Write a report on U.N. World Happiness Data.
+This project used U.N. World Happiness Data, to predict happiness for countries around the world. It includes the following steps:
+- Use visualizations to explore bivariate results
+- Describe relationships between particular features and the target variable
+- Examine features that predict happiness categories using one or more models that allow for automatic feature selection
+- Explain meaningful findings
+- Run three prediction models to try to predict World Happiness well.
+- Discuss which models performed better and point out relevant hyper-parameter values for successful models.
+- Submit your best model to the leader board for the World Happiness AI Model Share competition.
+
+
+
  
