@@ -43,7 +43,7 @@ This project used MRI image data and predicted whether a image contains tumors. 
 - Discuss which models performed better and point out relevant hyper-parameter values for successful models.
 - Submit best model to the leader board for the Brain Tumor Diagnostic AI Model Share competition.
 
-### [BBC text classification project](https://github.com/Alisaahy/Projects-in-Advanced-Machine-Learning/blob/master/Assignment2/Image_Mini_hackathon_braintumor_MRIdata.ipynb)
+### [BBC text classification project](https://github.com/Alisaahy/Projects-in-Advanced-Machine-Learning/blob/master/Assignment3/BBC_News_Category_Classification_Mini_Hackathon.ipynb)
 This project used data includes news articles from the BBC news and built a model to classification this text dataset into multiple categories. It includes the following steps:
 
 - Visualize the categories of the target variable and describe the dataset generally.
